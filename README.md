@@ -15,7 +15,7 @@
 <ul>
   <li>Download or clone the repository</li>
 <pre><code>
-  git clone https://github.com/Ayushparikh-code/Web-dev-mini-projects.git
+  git clone https://github.com/Nayeem-stud/Youtube-Clone.git
 </code></pre>
   
   <li>Go to the directory</li>
@@ -28,7 +28,7 @@
 <p>
 By making this project, your skills will be enhanced and specially for CSS. This single project uses Flexbox, CSS Grid, Media Queries, etc. These are consider one of the most important concepts of CSS and these skills will be better after making this mini project.
 
-P.S. JavaScript will be added to this in Future updates!!
+JavaScript will be added to this in Future updates!!
 </p>
 <br><br>
 
